@@ -1,0 +1,7 @@
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\bin\Debug\UploadFile.rxtmg
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\bin\Debug\UploadFile.dll
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\bin\Debug\UploadFile.pdb
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\bin\Debug\Ranorex.Core.Resolver.dll
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\obj\x86\Debug\UploadFile.csprojResolveAssemblyReference.cache
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\obj\x86\Debug\UploadFile.dll
+D:\Learning\Ranorex\HelloConnectGit\UploadFile\obj\x86\Debug\UploadFile.pdb

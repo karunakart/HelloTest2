@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="1858924dd299fee"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="1"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="1"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="1"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Karunakar_Therupally"
+		rxversion="8.1.1.0"
+		host="EPINHYDW1068"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="6/23/2018 8:40:27 PM"
+		timestampiso="2018-06-23T15:10:27"
+		endtime="6/23/2018 8:40:28 PM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<activity
+			result="Failed"
+			duration="15ms"
+			durationms="15"
+			type="test-suite"
+			rid="368186cdacc5662"
+			totalerrorcount="0"
+			totalwarningcount="0"
+			totalsuccesstestcasecount="0"
+			totalfailedtestcasecount="1"
+			totalblockedtestcasecount="0"
+			childsuccesscount="0"
+			childfailedcount="1"
+			childblockedcount="0"
+			totalsuccesscount="0"
+			totalfailedcount="1"
+			totalblockedcount="0"
+			totalmaintenancemodecount="0"
+			testsuitename="Hello"
+			headertext="Hello"
+			runconfigname="TestRun"
+			runlabel="">
+			<params>
+			</params>
+			<activity
+				result="Failed"
+				duration="0ms"
+				durationms="0"
+				type="test-case"
+				rid="ae04fe6cbe2b51c"
+				totalerrorcount="0"
+				totalwarningcount="0"
+				totalsuccesstestcasecount="0"
+				totalfailedtestcasecount="1"
+				totalblockedtestcasecount="0"
+				childsuccesscount="0"
+				childfailedcount="0"
+				childblockedcount="0"
+				totalsuccesscount="0"
+				totalfailedcount="1"
+				totalblockedcount="0"
+				totalmaintenancemodecount="0"
+				testcontainername="TestCase"
+				testcontainerid="3d254976-4818-4fbd-88f6-9e46fc07c202"
+				headertext="TestCase"
+				displayName="TestCase"
+				iteration="0"
+				activity-exectype="execute"
+				conditionstate="none">
+				<errormessage>
+					Failed to get rows from data source: Failed to read CSV data file 'hellocsv.csv'. Could not find file 'D:\Learning\Ranorex\HelloConnectGit\Hello\bin\Debug\hellocsv.csv'.
+				</errormessage>
+			</activity>
+		</activity>
+	</activity>
+</report>

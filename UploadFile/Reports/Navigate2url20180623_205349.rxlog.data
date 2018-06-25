@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="25.89s"
+		durationms="25888"
+		type="root"
+		rid="390abd1d51d3ebf"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Karunakar_Therupally"
+		rxversion="8.1.1.0"
+		host="EPINHYDW1068"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="64bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="6/23/2018 8:54:01 PM"
+		timestampiso="2018-06-23T15:24:01"
+		endtime="6/23/2018 8:54:27 PM"
+		timeoutfactor="1"
+		module="Navigate2url">
+		<detail>
+			Navigate2url
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.424"
+			timeRelativeToTestModuleStartTime="00:01.424"
+			timeWallClock="20:54:03"
+			time="00:01.424"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>sk
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.580"
+			timeRelativeToTestModuleStartTime="00:01.580"
+			timeWallClock="20:54:03"
+			time="00:01.580"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'http://google.com' with browser 'chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="D:\Learning\Ranorex\HelloConnectGit\UploadFile\Navigate2url.cs"
+				codeline="93"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.793"
+			timeRelativeToTestModuleStartTime="00:01.793"
+			timeWallClock="20:54:03"
+			time="00:01.793"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Google.LstIb' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='encodable.com']//input[#'uploadname1']"
+				itempath=".//input[#'uploadname1']"
+				fullname="HelloRepository.Google.LstIb"
+				id="eec096b6734245849f4c5a727517cf48"
+				timeout="60000"
+				codefile="D:\Learning\Ranorex\HelloConnectGit\UploadFile\Navigate2url.cs"
+				codeline="97"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.888"
+			timeRelativeToTestModuleStartTime="00:25.888"
+			timeWallClock="20:54:27"
+			time="00:25.888"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

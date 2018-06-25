@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="17.47s"
+		durationms="17472"
+		type="root"
+		rid="7c52614dd2e839b"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Karunakar_Therupally"
+		rxversion="8.1.1.0"
+		host="EPINHYDW1068"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="64bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="6/23/2018 8:55:52 PM"
+		timestampiso="2018-06-23T15:25:52"
+		endtime="6/23/2018 8:56:10 PM"
+		timeoutfactor="1"
+		module="Navigate2url">
+		<detail>
+			Navigate2url
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.859"
+			timeRelativeToTestModuleStartTime="00:00.859"
+			timeWallClock="20:55:53"
+			time="00:00.859"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>sk
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.890"
+			timeRelativeToTestModuleStartTime="00:00.890"
+			timeWallClock="20:55:53"
+			time="00:00.890"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'http://encodable.com' with browser 'chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="D:\Learning\Ranorex\HelloConnectGit\UploadFile\Navigate2url.cs"
+				codeline="93"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.046"
+			timeRelativeToTestModuleStartTime="00:01.046"
+			timeWallClock="20:55:54"
+			time="00:01.046"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'FileuploadPage.FIleuploadLInk' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='encodable.com']//input[#'uploadname1']"
+				itempath=".//input[#'uploadname1']"
+				fullname="HelloRepository.FileuploadPage.FIleuploadLInk"
+				id="eec096b6734245849f4c5a727517cf48"
+				timeout="60000"
+				codefile="D:\Learning\Ranorex\HelloConnectGit\UploadFile\Navigate2url.cs"
+				codeline="97"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.471"
+			timeRelativeToTestModuleStartTime="00:17.471"
+			timeWallClock="20:56:10"
+			time="00:17.471"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>
